@@ -1,4 +1,4 @@
-# SemanaVidaPlena_Parte2
+# Projeto Semana Vida Plena 2
 Esta aplicação integra os sistemas Eventos e Restaurante Parceiro, permitindo análises estratégicas sobre o comportamento dos participantes e o impacto dos eventos nos restaurantes parceiros.
 As seguintes perguntas norteiam o desenvolvimento de métodos e funções que auxiliam na tomada de decisão.
 
