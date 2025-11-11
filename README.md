@@ -37,9 +37,6 @@ O sistema foi desenvolvido em **Java**, com código modular e organizado em paco
 
 9. Quais eventos tiveram a maior taxa de conversão de participantes em clientes de restaurante parceiro?
 
-
-## 💻 Instruções de Execução
-
 ## 🔧 Pré-requisitos
 - **Java JDK 17** (ou superior) instalado.
 - Terminal configurado com o comando `javac` e `java`.
@@ -82,3 +79,8 @@ Coesão modular: cada pacote representa um domínio funcional isolado.
 
 Projeto acadêmico desenvolvido para a disciplina de Programação Orientada a Objetos – 2025.2
 Uso exclusivamente educacional.
+
+## Informações para contato
+
+Carlos Roberto - carlosmdev11@gmail.com
+Bruno Cavalcanti - bruno.wanderley.cc@gmail.com
