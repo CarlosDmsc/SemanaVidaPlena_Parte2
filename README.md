@@ -48,13 +48,8 @@ O sistema foi desenvolvido em **Java**, com código modular e organizado em paco
 
 1. **Clone o repositório**
    ```bash
-   git clone <link-do-seu-repositorio>
+   git clone https://github.com/CarlosDmsc/SemanaVidaPlena_Parte2
    cd SemanaVidaPlena/src
-
-
-## 🧭 Diagrama de Classes UML
-Link para o diagrama: https://lucid.app/lucidchart/0185f6aa-c820-46fd-8a48-1c276251b378/edit?viewport_loc=-23%2C-105%2C2222%2C1037%2CHWEp-vi-RSFO&invitationId=inv_07e0766e-39a1-49f6-934d-f2c54fc86631
-
 
 ## 🧱 Conceitos de POO aplicados
 
